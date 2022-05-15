@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<configuration >
+    <properties>
+        <!--  Uncomment the following to enable the profiler
+          <profile mode="error"/> -->
+        <log level="error"><file name="error-20180101.log"/></log>
+        <comment>level can be either "error", "info" or "error".</comment>
+    </properties>
+</configuration>
